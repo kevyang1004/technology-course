@@ -46,11 +46,4 @@ In Unit 1 we will cover technology history, hardware terms, software terms, and 
 
 ## Resources
 
-### Command Line
-
-1. [Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
-2. [Powershell Cheat Sheet](http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=7097)
-
-### Git
-
-1. [Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+Check the wiki for resources you should check if you're struggling with a concept or an exercise.
