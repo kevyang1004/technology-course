@@ -46,4 +46,4 @@ In Unit 1 we will cover technology history, hardware terms, software terms, and 
 
 ## Resources
 
-Check the wiki for resources you should check if you're struggling with a concept or an exercise.
+Check the wiki for resources you can use if you're struggling with a concept or an exercise.
