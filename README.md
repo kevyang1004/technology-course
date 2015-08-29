@@ -12,11 +12,11 @@ Each day you should have the following items with you:
 2. Notebook
 3. Pencil case
 
-As we get further into the class there may be specific tools that I need you to bring with you
+As we get further into the class there may be specific tools that I need you to bring with you.
 
 ## Communication
 
-If you have a question, the best place to put it is Slack. If you have a specific problem with a file in the repository, then feel free to submit an issue or pull request.
+If you have a question, the best place to put it is Slack or Classroom. If you have a specific problem with a file in the repository, then feel free to submit an issue or pull request.
 
 ### Slack
 
